@@ -24,7 +24,7 @@ setup(
     packages=[about['__package__']],
     zip_safe=False,
     install_requires=[
-        'opencv-contrib-python==4.2.0.32',
+        'opencv-contrib-python==4.5.1.48',
         'numpy==1.18.1',
     ],
     classifiers=[
